@@ -2,6 +2,8 @@
 
 This project allows real-time monitoring of Google (GOOGL) stock prices, downloading historical data, and plotting the price evolution using the Alpha Vantage API.
 
+<img width="649" height="537" alt="image" src="https://github.com/user-attachments/assets/89a42651-b745-4bbe-a201-2e1339d65a61" />
+
 ## Features
 - Download historical stock data for Google.
 - Plot the price evolution.
