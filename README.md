@@ -4,6 +4,10 @@ This project allows real-time monitoring of Google (GOOGL) stock prices, downloa
 
 <img width="649" height="537" alt="image" src="https://github.com/user-attachments/assets/89a42651-b745-4bbe-a201-2e1339d65a61" />
 
+Send an email notification when the stock price reaches the target.
+
+<img width="953" height="235" alt="image" src="https://github.com/user-attachments/assets/12e8b348-7899-4b70-afca-5c1c762b5e9d" />
+
 ## Features
 - Download historical stock data for Google.
 - Plot the price evolution.
